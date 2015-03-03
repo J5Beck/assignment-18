@@ -1,0 +1,19 @@
+{
+  "name": "assignment-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/J5Beck/assignment-18.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J5Beck/assignment-18/issues"
+  },
+  "homepage": "https://github.com/J5Beck/assignment-18"
+}
