@@ -1,0 +1,23 @@
+{
+  "name": "assignment-18",
+  "version": "0.0.0",
+  "homepage": "https://github.com/J5Beck/assignment-18",
+  "authors": [
+    "Jeff Beck <jeff.kitconcepts@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gulp": "~3.8.11",
+    "underscore": "~1.8.2",
+    "mocha": "~2.1.0",
+    "chai": "~2.1.0",
+    "json": "*"
+  }
+}
